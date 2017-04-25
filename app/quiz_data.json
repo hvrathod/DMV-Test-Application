@@ -1,0 +1,578 @@
+[
+  {
+    "id": 0,
+    "question": "The speed limit for a school zone is _ , unless otherwise posted.",
+    "answers": [
+      {
+        "id": 0,
+        "text": "15mph"
+      },
+      {
+        "id": 1,
+        "text": "25mph"
+      },
+      {
+        "id": 2,
+        "text": "20mph"
+      }
+    ],
+    "correct": 1
+  },
+  {
+    "id": 1,
+    "question": "It is illegal for a person under 21 years of age to drive with a blood alcohol concentration (BAC) that is __ or more.",
+    "answers": [
+      {
+        "id": 0,
+        "text": "O.08%"
+      },
+      {
+        "id": 1,
+        "text": "0.01%"
+      },
+      {
+        "id": 2,
+        "text": "0.05%"
+      }
+    ],
+    "correct": 2
+  },
+  {
+    "id": 2,
+    "question": "When looking ahead while driving. you should:",
+    "answers": [
+      {
+        "id": 0,
+        "text": "Stare at the middle of the road"
+      },
+      {
+        "id": 1,
+        "text": "look directly in front of your car "
+      },
+      {
+        "id": 2,
+        "text": "Scan from side to side "
+      }
+    ],
+    "correct": 2
+  },
+  {
+    "id": 3,
+    "question": "Check your rearview mirrors:",
+    "answers": [
+      {
+        "id": 0,
+        "text": "Often to see how traffic is moving behind you"
+      },
+      {
+        "id": 1,
+        "text": "Only on a freeway or highway "
+      },
+      {
+        "id": 2,
+        "text": "Only when you are slowing down"
+      }
+    ],
+    "correct": 0
+  },
+  {
+    "id": 4,
+    "question": "The speed limit In any alley is: ",
+    "answers": [
+      {
+        "id": 0,
+        "text": "20mph"
+      },
+      {
+        "id": 1,
+        "text": "15mph"
+      },
+      {
+        "id": 2,
+        "text": "10mph"
+      }
+    ],
+    "correct": 1
+  },
+  {
+    "id": 5,
+    "question": "You should adjust your rearview and side mirrors: ",
+    "answers": [
+      {
+        "id": 0,
+        "text": "Before you get into the car "
+      },
+      {
+        "id": 1,
+        "text": "Before you start driving "
+      },
+      {
+        "id": 2,
+        "text": "After you start driving"
+      }
+    ],
+    "correct": 1
+  },
+  {
+    "id": 6,
+    "question": "You must make a written report (SA 1) to DMV when: ",
+    "answers": [
+      {
+        "id": 0,
+        "text": "Your vehicle fails a smog test "
+      },
+      {
+        "id": 1,
+        "text": "You are involved in an accident and there is an injury "
+      },
+      {
+        "id": 2,
+        "text": "You change your insurance company"
+      }
+    ],
+    "correct": 1
+  },
+  {
+    "id": 7,
+    "question": "Your wheels should be pointed straight ahead, unless you are: ",
+    "answers": [
+      {
+        "id": 0,
+        "text": "Waiting to make a left tum at a traffic light"
+      },
+      {
+        "id": 1,
+        "text": "Parked on a hill or sloping driveway"
+      },
+      {
+        "id": 2,
+        "text": "Parked on the side of a level roadway and there is no curb"
+      }
+    ],
+    "correct": 1
+  },
+  {
+    "id": 8,
+    "question": "You have had your license for eight months. You may: ",
+    "answers": [
+      {
+        "id": 0,
+        "text": "Drive between 5:00 AM and 5:00 PM unaccompanied "
+      },
+      {
+        "id": 1,
+        "text": "Transport minors unaccompanied al any time"
+      },
+      {
+        "id": 2,
+        "text": "Transport minors between 11 :00 PM and 5:00 AM unaccompanied "
+      }
+    ],
+    "correct": 1
+  },
+  {
+    "id": 9,
+    "question": "You are being chased by a police vehicle with its lights and sirens activated. You ignore the warning to stop and speed away. During the chase. a person is seriously injured. You are subject to: ",
+    "answers": [
+      {
+        "id": 0,
+        "text": "Imprisonment in a state prison for five years"
+      },
+      {
+        "id": 1,
+        "text": "A fine of not less than $1000 "
+      },
+      {
+        "id": 2,
+        "text": "Attending an anger· management class "
+      }
+    ],
+    "correct": 0
+  },
+  {
+    "id": 10,
+    "question": "When you see this sign, you should: 'Children walking'",
+    "answers": [
+      {
+        "id": 0,
+        "text": "Always stop at crossing"
+      },
+      {
+        "id": 1,
+        "text": "Stop at crosswalk until a crossing guard signals you to go"
+      },
+      {
+        "id": 2,
+        "text": "Be prepared to stop id children are in the crosswalk"
+      }
+    ],
+    "correct": 2
+  },
+  {
+    "id": 11,
+    "question": "You are driving in the far right lane of a multilane freeway. A line of five cars is merging into your lane ahead from an onramp. You: ",
+    "answers": [
+      {
+        "id": 0,
+        "text": "Must maintain your speed and position"
+      },
+      {
+        "id": 1,
+        "text": "Must slow down to lei the other vehicles merge"
+      },
+      {
+        "id": 2,
+        "text": "Should make room for the merging vehicles, if possible"
+      }
+    ],
+    "correct": 2
+  },
+  {
+    "id": 12,
+    "question": "You are driving in the far right lane of a four-lane freeway and notice thick broken while lines on the left side of your lane. You are driving in: ",
+    "answers": [
+      {
+        "id": 0,
+        "text": "The carpool lane and must merge into the next lane "
+      },
+      {
+        "id": 1,
+        "text": "A special lane for slow moving vehicles "
+      },
+      {
+        "id": 2,
+        "text": "An exit lane"
+      }
+    ],
+    "correct": 2
+  },
+  {
+    "id": 13,
+    "question": "Give Extra space to drivers backing out of parking spaces because:",
+    "answers": [
+      {
+        "id": 0,
+        "text": "They may not see you"
+      },
+      {
+        "id": 1,
+        "text": "They have the right-of-way "
+      },
+      {
+        "id": 2,
+        "text": "It is required by law"
+      }
+    ],
+    "correct": 0
+  },
+  {
+    "id": 14,
+    "question": "To turn left from a one-way street onto a one-way street, start from: ",
+    "answers": [
+      {
+        "id": 0,
+        "text": "The lane closest to the left curb "
+      },
+      {
+        "id": 1,
+        "text": "The center lane"
+      },
+      {
+        "id": 2,
+        "text": "Any lane as long as it seems safe to do so"
+      }
+    ],
+    "correct": 0
+  },
+  {
+    "id": 15,
+    "question": "You are on a two-way road and the vehicle ahead of you is turning left into a driveway. You may legally pass the vehicle on the right: ",
+    "answers": [
+      {
+        "id": 0,
+        "text": "If there is enough road between the curb and the vehicle to do so "
+      },
+      {
+        "id": 1,
+        "text": "Even if you must drive on the shoulder to do so "
+      },
+      {
+        "id": 2,
+        "text": "Even if you must cross a solid white line painted on the road "
+      }
+    ],
+    "correct": 0
+  },
+  {
+    "id": 16,
+    "question": "Which of the following blocks the smooth flow of traffic?",
+    "answers": [
+      {
+        "id": 0,
+        "text": "Slowing down to look at an accident scene"
+      },
+      {
+        "id": 1,
+        "text": "Avoiding unnecessary lane changes"
+      },
+      {
+        "id": 2,
+        "text": "Using Public transport instead for your car"
+      }
+    ],
+    "correct": 0
+  },
+  {
+    "id": 17,
+    "question": "The California Driver Handbook recommends several tips to help you keep alert on long drives. One of these tips is: ",
+    "answers": [
+      {
+        "id": 0,
+        "text": "Pull of the road and rest"
+      },
+      {
+        "id": 1,
+        "text": "Turn on your air conditioner"
+      },
+      {
+        "id": 2,
+        "text": "Alternately drive close to the left and right sides of your lane "
+      }
+    ],
+    "correct": 0
+  },
+  {
+    "id": 18,
+    "question": "If there is a deep puddle in the road ahead, you should: ",
+    "answers": [
+      {
+        "id": 0,
+        "text": "Maintain the posted speed and drive through the water"
+      },
+      {
+        "id": 1,
+        "text": "Steer your vehicle around the water, if possible "
+      },
+      {
+        "id": 2,
+        "text": "Shift into neutral as you drive through the water"
+      }
+    ],
+    "correct": 1
+  },
+  {
+    "id": 19,
+    "question": "Which of the following is true about large trucks?",
+    "answers": [
+      {
+        "id": 0,
+        "text": "Trucks have fewer blind spots due to the vehicle's height"
+      },
+      {
+        "id": 1,
+        "text": "II is best to pass trucks very slowly and on the right side "
+      },
+      {
+        "id": 2,
+        "text": "Trucks often appear to travel slower because of their large size"
+      }
+    ],
+    "correct": 2
+  },
+  {
+    "id": 20,
+    "question": "Cargo extending more than four feet from your rear bumper:",
+    "answers": [
+      {
+        "id": 0,
+        "text": "Is illegal under all circumstances"
+      },
+      {
+        "id": 1,
+        "text": "Must be marked with a red flag or lights"
+      },
+      {
+        "id": 2,
+        "text": "Does not legally have to be marked, but it is a good idea "
+      }
+    ],
+    "correct": 1
+  },
+  {
+    "id": 21,
+    "question": "This sign means: ",
+    "answers": [
+      {
+        "id": 0,
+        "text": "Railroad crossing is controlled-continue at your regular speed "
+      },
+      {
+        "id": 1,
+        "text": "Look, listen, and prepare to stop at the crossing, if necessary"
+      },
+      {
+        "id": 2,
+        "text": "Stop at the railroad tracks and wait for a signal before crossing"
+      }
+    ],
+    "correct": 1
+  },
+  {
+    "id": 22,
+    "question": "When a traffic signal light isn't working at an intersection, you should",
+    "answers": [
+      {
+        "id": 0,
+        "text": "Come to a complete stop, then proceed when it is safe"
+      },
+      {
+        "id": 1,
+        "text": "Stop before entering and let all other traffic go first"
+      },
+      {
+        "id": 2,
+        "text": "Slow down or stop, if necessary"
+      }
+    ],
+    "correct": 0
+  },
+  {
+    "id": 23,
+    "question": "When parked on any hill, you should always set your parking brake and: ",
+    "answers": [
+      {
+        "id": 0,
+        "text": "leave your vehicle in neutral"
+      },
+      {
+        "id": 1,
+        "text": "Keep your front wheels parallel to the road........."
+      },
+      {
+        "id": 2,
+        "text": "Leave your vehicle in gear or the 'park' position "
+      }
+    ],
+    "correct": 2
+  },
+  {
+    "id": 24,
+    "question": "When should you use your headlights? ",
+    "answers": [
+      {
+        "id": 0,
+        "text": "One hour before sunset until one hour after sunrise "
+      },
+      {
+        "id": 1,
+        "text": "Anytime you can't see at least two miles ahead "
+      },
+      {
+        "id": 2,
+        "text": "Anytime you have trouble seeing others or being seen "
+      }
+    ],
+    "correct": 2
+  },
+  {
+    "id": 25,
+    "question": " You must notify taw enforcement and make a written report (SR 1) to OMV when: ",
+    "answers": [
+      {
+        "id": 0,
+        "text": "You intend to file a certificate of nonoperation for your vehicle "
+      },
+      {
+        "id": 1,
+        "text": "Your vehicle is towed for parking illegally "
+      },
+      {
+        "id": 2,
+        "text": "You have an accident and there is an injury or death "
+      }
+    ],
+    "correct": 2
+  },
+  {
+    "id": 26,
+    "question": "Which of these is a legal U-turn",
+    "answers": [
+      {
+        "id": 0,
+        "text": "On a highway where there is a paved opening lor a turn "
+      },
+      {
+        "id": 1,
+        "text": "150 feet away from a hill or curve "
+      },
+      {
+        "id": 2,
+        "text": "Over two sets of double yellow lines in the roadway "
+      }
+    ],
+    "correct": 0
+  },
+  {
+    "id": 26,
+    "question": "You are approaching sharp curve in the road you should:",
+    "answers": [
+      {
+        "id": 0,
+        "text": "Start braking before you enter the curve."
+      },
+      {
+        "id": 1,
+        "text": "Start braking as soon as you enter the curve "
+      },
+      {
+        "id": 2,
+        "text": "Accelerate into the curve"
+      }
+    ],
+    "correct": 0
+  },
+  {
+    "id": 27,
+    "question": "For the 12 months after your licensed, you must be accompanied by your parents or guardian if you: ",
+    "answers": [
+      {
+        "id": 0,
+        "text": "Drive between the hours of 5 a.m. and midnight"
+      },
+      {
+        "id": 1,
+        "text": "Transport minors between the hours of 11 p.m. and 5 a.m"
+      },
+      {
+        "id": 2,
+        "text": "Transport adults between the hours of 5 a.m. and midnight "
+      }
+    ],
+    "correct": 0
+  },
+  {
+    "id": 28,
+    "question": "Whose responsibility is it to know how your medicatioos affect your driving? ",
+    "answers": [
+      {
+        "id": 0,
+        "text": "Your doctor's"
+      },
+      {
+        "id": 1,
+        "text": "Your pharmacist's"
+      },
+      {
+        "id": 2,
+        "text": "yours"
+      }
+    ],
+    "correct": 2
+  }
+
+
+
+
+
+
+]
